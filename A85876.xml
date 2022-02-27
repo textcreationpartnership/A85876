@@ -1,0 +1,1446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chartæ scriptæ: or A new game at cards, call'd Play by the booke.</title>
+            <author>Gayton, Edmund, 1608-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85876</idno>
+            <idno type="STC">Wing G408</idno>
+            <idno type="STC">Thomason E309_19</idno>
+            <idno type="STC">ESTC R200422</idno>
+            <idno type="EEBO-CITATION">99861182</idno>
+            <idno type="PROQUEST">99861182</idno>
+            <idno type="VID">113310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113310)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E309[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Chartæ scriptæ: or A new game at cards, call'd Play by the booke.</title>
+                  <author>Gayton, Edmund, 1608-1666.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the year, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edmund Gayton by Wing.</note>
+                  <note>Printed at Oxford by Leonard Lichfield. Cf. Wing.</note>
+                  <note>Satirical verse.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 17th Oxon".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:113310:1"/>
+            <pb facs="tcp:113310:1"/>
+            <head>To the moſt
+VERTVOVS,
+And therefore moſt
+ACCOMPLISH'D
+LADY, the LADY
+V. M.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <l>
+               <seg rend="decorInit">T</seg>Hough other Cards paſſe here, and there</l>
+            <l>Vnder the name of <hi>Nicholas Benier'e;</hi>
+            </l>
+            <l>And his <hi>Protections</hi> good, (unleſse it be</l>
+            <l>From the <hi>Exciſe-man,</hi> or <hi>Monopoly.</hi>)</l>
+            <l>
+               <hi>Theſe</hi> cannot ſo: A Grand <hi>Commiſſion</hi> ſits,</l>
+            <l>And every one's <hi>Exciſer</hi> of our <hi>Wits:</hi>
+            </l>
+            <l>Wherefore theſe <hi>Guardleſſe Fancies</hi> humbly fly</l>
+            <l>Into your <hi>Hands,</hi> for ſweet ſecurity.</l>
+            <l>All in one <hi>Suite,</hi> that you would <hi>Deale</hi> them out,</l>
+            <l>And happily they then may go <hi>About.</hi>
+            </l>
+            <l>Who will not ſay in ordinary kindneſse,</l>
+            <l>(<hi>Deliver'd by</hi> Such Hands,) <hi>they're</hi> Cartes Fines.</l>
+            <l>They may perchance the happy fortune get</l>
+            <l>Of ſome <hi>New Faſhion,</hi> where the <hi>Ladies</hi> met,</l>
+            <l>And my good <hi>Ladies Dreſſe</hi> being lik'd and <hi>New,</hi>
+            </l>
+            <l>All their good <hi>Ladiſhips</hi> to like it drew.</l>
+            <l>So may they <hi>Draw,</hi> when you doe once begin,</l>
+            <l>At leaſt for your <hi>Sake</hi> ſay, <hi>Give't me agen.</hi>
+            </l>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113310:2"/>
+            <head>To the Ingenuous Reader,
+<hi>A Directory to Play.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">A</seg> 
+               <hi>Iove Principium.</hi> So theſe <hi>Cards</hi> begin.</l>
+            <l>Perchance you'l aske, what <hi>Humour</hi> I was in</l>
+            <l>To be ſo <hi>Pious?</hi> when (our <hi>Luck</hi> being <hi>Bad</hi>)</l>
+            <l>I ſhould have <hi>ſworne,</hi> and with the <hi>Cards</hi> been mad:</l>
+            <l>It grieves me much, to ſee the <hi>Game</hi> ſo plaid,</l>
+            <l>Sure there's <hi>Foole</hi> Play, ſome <hi>cheating.</hi> I'm afraid.</l>
+            <l>We <hi>dealt,</hi> and <hi>Clubs</hi> were <hi>Trumpe,</hi> and we had <hi>moſt,</hi>
+            </l>
+            <l>And <hi>Ace,</hi> and <hi>King</hi> to Boot, and yet we loſt.</l>
+            <l>
+               <note n="*" place="margin">The Cards Morall.</note> This drove me into <hi>ſerious</hi> Thoughts, and Things</l>
+            <l>Of higher notions of <hi>Ace, Queenes,</hi> and <hi>Kings.</hi>
+            </l>
+            <l>And there I found all well: But you muſt have</l>
+            <l>The truth. <hi>All</hi> theſe are worſted by the <hi>Knave.</hi>
+            </l>
+            <l>To keep him right, I ſet a guard of Ten,</l>
+            <l>
+               <hi>Ten</hi> goodly Precepts, and <hi>Nine</hi> Valiant Men:</l>
+            <l>Beſide I ſhew'd him, what ſuch tricks did wait,</l>
+            <l>In the firſt Worlds Correction: <hi>Except Eight.</hi>
+            </l>
+            <l>I ſhew him too, to truſt in <hi>Starres</hi> is <hi>ſilly,</hi>
+            </l>
+            <l>His <hi>Grammar</hi> may as ſoon him ſave, as <hi>Lilly.</hi>
+            </l>
+            <l>But if he ſpent his <hi>Sixe dayes,</hi> as he ſhu'd,</l>
+            <l>Himſelfe would be as they; And they were <hi>good.</hi>
+            </l>
+            <l>Bid him his <hi>Senſes</hi> uſe. The <hi>Members Five</hi>
+            </l>
+            <l>His <hi>Senſes</hi> are, by them hee'l <hi>Live</hi> and <hi>Thrive.</hi>
+            </l>
+            <l>Then wroth (ſaid I) ranſack the <hi>Elements,</hi>
+            </l>
+            <l>Never more wicked <hi>knave,</hi> nor worſe intents,</l>
+            <l>They will get all. No M<hi rend="sup">r</hi> 
+               <hi>Peters,</hi> wee</l>
+            <l>Will keep our <hi>Threes, Faith, Hope,</hi> and <hi>Charity.</hi>
+            </l>
+            <l>And our two <hi>Twoo's (Tam Foole.</hi>) No more tricks vent;</l>
+            <l>We keep the <hi>Bible,</hi> and the <hi>Sacrament.</hi>
+            </l>
+         </div>
+         <div type="encomium">
+            <head>To his Deare Friend, the Author.</head>
+            <l>SOme men doe make no other uſe of <hi>Play,</hi>
+            </l>
+            <l>But only This, to <hi>paſſe</hi> the <hi>Time</hi> away.</l>
+            <l>As if that which we all complaine's too ſhort,</l>
+            <l>Lingerd too long, unleſſe helpt on by ſport.</l>
+            <l>But thou (Deare Friend) haſt ſo contriv'd thy <hi>Pack<g ref="char:punc">▪</g>
+               </hi>
+            </l>
+            <l>That we might neither <hi>Time,</hi> nor <hi>Paſtime</hi> lack.</l>
+            <l>Who paſſes here his <hi>Time,</hi> what e're they coſt,</l>
+            <l>Shall ſay, in uſing <hi>theſe</hi> theres no <hi>Time</hi> loſt.</l>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:113310:2"/>
+            <head>THE INSPIRER.
+To his Deare Friend the Author,
+Upon His
+CHARTae SCRIPTae.</head>
+            <l>
+               <seg rend="decorInit">D</seg>Eare Friend, you make a <hi>dry dead ſtock</hi> to bring</l>
+            <l>Forth <hi>fruits,</hi> (an offering for the <hi>higheſt King</hi>)</l>
+            <l>Heavens juſt <hi>Tribute,</hi> or an <hi>Out-Rent</hi> due</l>
+            <l>From all alike, but only paid by <hi>You.</hi>
+            </l>
+            <l>You <hi>Digge</hi> up Vice,<note place="margin">Spades.</note> and ſtay it in the Root,</l>
+            <l>
+               <hi>Beating</hi> downe ſinne,<note place="margin">Clubs.</note> before it ſpring or ſhoot;</l>
+            <l>That Vertue Crown'd with glory may appeare</l>
+            <l>In <hi>Diamonds,</hi>
+               <note place="margin">Diamonds.</note> ſparkling like the Starry <hi>Sphere,</hi>
+            </l>
+            <l>Where every one, exceeding farre all <hi>Art,</hi>
+            </l>
+            <l>A <hi>Jewell</hi> makes, and Beames of <hi>Grace</hi> doth Dart</l>
+            <l>Into the Soul: a Charm for every <hi>Senſe,</hi>
+            </l>
+            <l>As if inſpir'd by ſome <hi>Intelligence.</hi>
+            </l>
+            <l>Thus you have <hi>Pack'd</hi> the <hi>Cards,</hi> and dealt the <hi>Game,</hi>
+            </l>
+            <l>And by your <hi>Hearts,</hi>
+               <note place="margin">Hearts.</note> well playd, <hi>All Hearts</hi> you gaine.</l>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:113310:3"/>
+            <head>To his moſt loving Friend, the
+AUTHOR.</head>
+            <l>DEare Friend, you chid me when I ſaid your <hi>Pen</hi>
+            </l>
+            <l>Reviv'd BEN: IOHNSON from his grave agen.</l>
+            <l>Tell me you <hi>Criticks,</hi> I'le be judg'd by you,</l>
+            <l>Can there <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> CHARTAE SCRIPTAE due?</l>
+            <l>They all agree it, and with mee allow,</l>
+            <l>As large a <hi>Laurell</hi> to Empale thy Brow.</l>
+            <l>They thinke <hi>Tom: Randall</hi> (if alive) would be</l>
+            <l>Too weake a Gameſter to play with <hi>Thee.</hi>
+            </l>
+            <l>Since Iuſtice <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>Why ſhould your <hi>Hate,</hi> to your owne <hi>Fame</hi> be ſuch<g ref="char:punc">▪</g>
+            </l>
+            <l>If you'le not be Commended, leave to write,</l>
+            <l>So you'le want <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</l>
+         </div>
+         <div type="poem">
+            <head>An Advertiſement to the <g ref="char:V">Ʋ</g>ertuous
+LADIES.</head>
+            <l>DEale fairely <hi>Ladies;</hi> 'tis a <hi>Pack</hi>
+            </l>
+            <l>Of arrrant <hi>Knaves?</hi> What is't you lack?</l>
+            <l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>Men dare not ſee themſelves in Print.</l>
+            <l>Hee is <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſomething of the Price:</l>
+            <l>Wood-cocks <hi>and</hi> Wit <hi>pay no</hi> Exciſe.</l>
+            <l>And if he but your Favour <hi>Winnes,</hi>
+            </l>
+            <l>In the next <hi>Pack</hi> you ſhall be <hi>Queenes.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:113310:3"/>
+            <head>ON
+CHARTAE SCRIPTAE.</head>
+            <l>WHat more <hi>Knaves</hi> yet? Nay then we're in our dumps,</l>
+            <l>For they're ſtill followed by the ſmaller <hi>Trumps.</hi>
+            </l>
+            <l>Hang theſe <hi>Committee-men,</hi> we're ſo o're matcht,</l>
+            <l>An honest (<hi>Tenne</hi> cant ſtirre, but ſtraight hee's catcht;</l>
+            <l>But play not <hi>Booty,</hi> let no Cards be ſeen,</l>
+            <l>And wee'le win yet; ſee here th' <hi>Ace, King,</hi> and <hi>Queen</hi>
+            </l>
+            <l>Theſe are the <hi>leading</hi> ones, if theſe ca'nt gett,</l>
+            <l>Ev'n throw the reſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, wee'le ſit by and <hi>Bett.</hi>
+            </l>
+         </div>
+         <div type="encomium">
+            <head>To his Friend, on his Ingenious
+CHARTAE SCRIPTAE.</head>
+            <l>COme my Deare Siſter, ſhall we have a Game?</l>
+            <l>The Cards are <hi>hallow'd</hi> now, all but the <hi>name.</hi>
+            </l>
+            <l>Here are <hi>Religious Kings</hi> and <hi>Queens,</hi> we may</l>
+            <l>Worke out <hi>Salvation,</hi> while we ſeeme to <hi>Play.</hi>
+            </l>
+            <l>Bleſt Reformation! ſee how <hi>Grace</hi> gets in</l>
+            <l>By th' very meanes which did intice to ſin.</l>
+            <l>Now may in godly ſort the <hi>Zealous</hi> mate</l>
+            <l>
+               <hi>Deale</hi> with a Brother, yet <hi>Communicate.</hi>
+            </l>
+            <l>They that forbad th'Prophaner <hi>Ace</hi> and <hi>Duce,</hi>
+            </l>
+            <l>Should they ſee theſe, they would command their <hi>Vſe.</hi>
+            </l>
+            <l>Virtue thus Conquers Vice, by an unknowne way,</l>
+            <l>And <hi>Satan's</hi> beaten now at his owne <hi>Play.</hi>
+            </l>
+            <l>What good may wee not hope for, when we heare,</l>
+            <l>
+               <hi>A</hi> Sermon <hi>Preach'd by</hi> Nicholas Benie're?</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:113310:4"/>
+            <head>Incertus AUTHOR, to his
+Anonymos Friends.</head>
+            <l>
+               <hi>I</hi> Thank you (<hi>Friends</hi>) for your Conceits, they're <hi>witty:</hi>
+            </l>
+            <l>But let's remember <hi>Myndus</hi> was a Citty,</l>
+            <l>And had <hi>great gates;</hi> whether it be <hi>Command</hi>
+            </l>
+            <l>Or <hi>Play,</hi> it is the word, no more, I'le <hi>ſtand.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113310:4"/>
+            <head>CHARTAE SCRIPTAE.</head>
+            <div type="part">
+               <head>The ACE,
+Vnity.</head>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">E</seg>Ternall One,</hi> who mad'ſt, and knowſt our <hi>Hearts.</hi>
+               </l>
+               <l>How wonderfull art thou; whoſe formoſt parts</l>
+               <l>No eye can ſee, and live! The Beſt of Things</l>
+               <l>Doe homage unto thee; even <hi>Queenes</hi> and <hi>Kings.</hi>
+               </l>
+               <l>And though the word now worſer meaning have,</l>
+               <l>Who was not borne thy vaſſall, and thy <hi>Knave?</hi>
+               </l>
+               <l>All <hi>Hearts</hi> are Open unto thee<g ref="char:punc">▪</g> no ſhrowd</l>
+               <l>To hide the low ſo Baſe; Nor <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo proud</l>
+               <l>To exalt the high: thou lifreſt up the low,</l>
+               <l>And down the proud do'ſt from their high <hi>Hearts</hi> throw.</l>
+            </div>
+            <div type="part">
+               <head>The King of HEARTS.</head>
+               <l>NExt to th' <hi>Ace</hi> on the Earth, the power of <hi>Kings</hi>
+               </l>
+               <l>Derivatively flowes, as <hi>ſtreames</hi> from Springs;</l>
+               <l>Pollute not then theſe chryſtall waters, no,</l>
+               <l>They muſt untouch'd to their owne <hi>Fountain</hi> flow.</l>
+               <l>So long as <hi>He</hi> pays duty to the <hi>Ace,</hi>
+               </l>
+               <l>He will defend his <hi>delegated</hi> Place:</l>
+               <l>
+                  <pb n="2" facs="tcp:113310:5"/>
+And though at <hi>Gleeke,</hi> the Knave in <hi>Number</hi> be</l>
+               <l>More then the King, Yet the <hi>precedency</hi>
+               </l>
+               <l>Is given to <hi>him</hi> in <hi>play,</hi> And <hi>Tom</hi> goes downe,</l>
+               <l>And do's his <hi>Croſſe</hi>-legg'd homage to the <hi>Crowne.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>The Queene of HEARTS.</head>
+               <l>ALas what fortune's this <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here's not a Packe,</l>
+               <l>The glorious Card of All is gon: we lacke</l>
+               <l>The <hi>Queene,</hi> nor will we a ſmall <hi>Card</hi> ſuppoſe.</l>
+               <l>We thanke the <hi>Thiſtle,</hi> that we want this <hi>Roſe.</hi>
+               </l>
+               <l>She's gon to play a better <hi>game,</hi> from parts</l>
+               <l>That <hi>Forreigne</hi> are, to get us <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Hearts,</hi>
+               </l>
+               <l>Then theſe at <hi>home;</hi> then count it <hi>England's Spring.</hi>
+               </l>
+               <l>When ſhe and thoſe <hi>Hearts</hi> joine to <hi>Ace</hi> and <hi>King.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>The King of DIAMONDS.</head>
+               <l>IF ever King had ſuch unvalued gemms,</l>
+               <l>
+                  <hi>Flow'rs</hi> of his Crowne, then our great <hi>King</hi> had them.</l>
+               <l>Not <hi>Aaron's</hi> breſt plate brandiſh't ſuch a Ray,</l>
+               <l>Nor darted ſo much luſtre<g ref="char:punc">▪</g> As that day</l>
+               <l>When that throughout theſe <hi>Iſlands</hi> we could ſee</l>
+               <l>Of peace and plenty A <hi>Monopoly.</hi>
+               </l>
+               <l>Religion brought forth wealth, but little after</l>
+               <l>The honeſt Dame was eaten by her daughter.</l>
+               <l>Two ſparkling <hi>Diamonds</hi> were this Land's two <hi>Eyes,</hi>
+               </l>
+               <l>The through the-word-fam'd <hi>
+                     <g ref="char:V">Ʋ</g>niverſities;</hi>
+               </l>
+               <l>But now we bunke. His power at Sea alone,</l>
+               <l>No <hi>Prince</hi> can ſhew me ſuch another ſtone.</l>
+               <l>What pitty i'ſt ſuch goodly pearles and fine</l>
+               <l>Should be caſt out (as now they are) to Swine!</l>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:113310:5"/>
+               <head>The Queene of DIAMONDS.</head>
+               <l>Great <hi>Queen,</hi> how thou haſt cut thy way we have ſeen,</l>
+               <l>Not now of <hi>Diamonds,</hi> but true <hi>Diamond</hi> Queene.</l>
+               <l>Thy greater Pearles, (not like that unchaſt ſhe</l>
+               <l>Who quaff'd them up diſſolv'd with <hi>Antony.</hi>)</l>
+               <l>To reinthrone thy injur'd <hi>Lord</hi> thou ſold't;</l>
+               <l>Bart'ring for <hi>Bullets Diamonds<g ref="char:punc">▪</g>
+                  </hi> and uphold'ſt</l>
+               <l>The Crowne Maugre thine enemies hate, and ſcorne</l>
+               <l>With high Supporters, Feirce as th'<hi>
+                     <g ref="char:V">Ʋ</g>nicorne,</hi>
+               </l>
+               <l>Or <hi>Lyon:</hi> Thus by gallant poverty,</l>
+               <l>
+                  <hi>Thy ſelfe</hi> will the unvalued <hi>Jewell</hi> be.</l>
+            </div>
+            <div type="part">
+               <head>The King of SPADES.</head>
+               <l>THis King reſembles much <hi>prime Monarchy.</hi>
+               </l>
+               <l>Juſt ſuch a King was <hi>Adam</hi> as is he:</l>
+               <l>Made by his ſinne a ſab'ring digging Prince,</l>
+               <l>And ſo the greateſt Princes have beene ſince,</l>
+               <l>Full of great Cares and Feares; In throbbes of ſtate,</l>
+               <l>In height 'bove others plac'd, and ſo in hate,</l>
+               <l>Laid open to reproaches, cenſures, ſcornes:</l>
+               <l>So that their Crownes are truly <hi>Crownes</hi> of <hi>Thornes.</hi>
+               </l>
+               <l>By baſe miſpriſion, what they are not, made;</l>
+               <l>So that they doe not call a <hi>Spade,</hi> a <hi>Spade.</hi>
+               </l>
+               <l>Vexing their ſacred perſons till they have</l>
+               <l>No reſt but by the <hi>Spade,</hi> and that i'th'Grave.</l>
+            </div>
+            <div type="part">
+               <head>The Queene of SPADES.
+<g ref="char:V">Ʋ</g>pon the Queene of Spaines death.</head>
+               <l>THe Mournfull Court in <hi>Heart,</hi> I meane, not <hi>blacke,</hi>
+               </l>
+               <l>(For they mourne truly, who their Mourning lacke)</l>
+               <l>In Elegiacke faces doth expreſſe</l>
+               <l>For loyall <hi>Spaine's</hi> great <hi>Queene,</hi> great heavineſſe.</l>
+               <l>
+                  <pb n="4" facs="tcp:113310:6"/>
+More ſorrow in a looke cannot be ſhowne;</l>
+               <l>I have knowne leſſe greife, when mourning has beene on<g ref="char:punc">▪</g>
+               </l>
+               <l>Who can forbeare a dolefull ſong to ſing?</l>
+               <l>Dead is the Catholicke Queene, and Chriſtian King.</l>
+               <l>If the Popes Title ſo ſmall a Power hath.</l>
+               <l>God bleſſe (pray we) Defender of the Faith.</l>
+            </div>
+            <div type="part">
+               <head>The King of CLUBS.</head>
+               <l>THis is the worſt of Kings, beware of him,</l>
+               <l>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King indeed, but a meere popular <hi>Pim,</hi>
+               </l>
+               <l>Voyc'd, and cry'd up by Impudence and noyſe.</l>
+               <l>Guarded with ſtore of Apron men and Boyes,</l>
+               <l>Saylors and watermen; and ſince the wives</l>
+               <l>Set to reforme, their <hi>foremen</hi> venter lives</l>
+               <l>More precious then their <hi>husbands,</hi> to bring in</l>
+               <l>
+                  <hi>Religion,</hi> and beate downe the <hi>Man</hi> of ſinne;</l>
+               <l>For which they exalt a <hi>Levita</hi> in a Tub<g ref="char:punc">▪</g>
+               </l>
+               <l>And he perſwades to tumults the rude Club.</l>
+               <l>When ſwarmes of waſpes, and hornets buzze: Then fly.</l>
+               <l>No honour in a Crowd for Majeſty.</l>
+            </div>
+            <div type="part">
+               <head>The Queene of CLUBS.</head>
+               <l>TO make a <hi>Queene</hi> of <hi>Clubs</hi> I muſt extract</l>
+               <l>The ſpirits of three <hi>Ladies</hi> moſt exact;</l>
+               <l>
+                  <hi>The</hi> Legiſlative, Preaching, <hi>and</hi> Prophetick;</l>
+               <l>Theſe qualities well jumbled by a <hi>Sedgewicke</hi>
+               </l>
+               <l>In cloſe <hi>Alembecke,</hi> will a <hi>Queene</hi> inſtall</l>
+               <l>Moſt pure, moſt vertuous, and <hi>Synodicall,</hi>
+               </l>
+               <l>Who ſhall go out, and in before the People,</l>
+               <l>And preach high doctrine placed in the <hi>Steeple,</hi>
+               </l>
+               <l>Theſe are the Peoples joy, their life, their breath,</l>
+               <l>Dearer then late moſt deare <hi>Elizabeth.</hi>
+               </l>
+               <l>
+                  <pb n="5" facs="tcp:113310:6"/>
+                  <hi>Io</hi> the Queene. A beaſt of vaſt Commands,</l>
+               <l>With many heads, and tailes, and many hands.</l>
+            </div>
+            <div type="part">
+               <head>The Knave of HEARTS.</head>
+               <l>I Am the worſt of <hi>Knaves,</hi> others by Art</l>
+               <l>Are wicked, ſtudyed; I me a Knave at <hi>Heart.</hi>
+               </l>
+               <l>Where vile Ingredients poyſon all my will,</l>
+               <l>Whatſoe're I thinke, or do, is miſcheife ſtill.</l>
+               <l>Like to an Indigeſtive ſtomack I</l>
+               <l>Convert all good to bad: Here roguery</l>
+               <l>Originall is; no vertue, goodneſſe, love</l>
+               <l>Can ſuch a monſter ſave; Repre'hend, reprove,</l>
+               <l>Like a fierce maſtiffe at your throat I fly;</l>
+               <l>Advice and Counſell I voyd cunningly.</l>
+               <l>And by a mentall <hi>reſervation</hi>
+               </l>
+               <l>
+                  <hi>Make</hi> and <hi>breake</hi> Oathes to damne a Nation.</l>
+            </div>
+            <div type="part">
+               <head>The Knave of DIAMONDS.
+Prince GRIFFITH.</head>
+               <l>A <hi>Precious Knavel</hi> Y'ould Madams Quarry Enter,</l>
+               <l>While precious ſtones you craftily preſent her,</l>
+               <l>And rob her of a Jewell above price.</l>
+               <l>Fowle raviſher, only a <hi>Prince</hi> in <hi>vice!</hi>
+               </l>
+               <l>Are theſe your <hi>cloſe Committees?</hi> if you ſit</l>
+               <l>Upon ſuch plots, we know what you <hi>Commit.</hi>
+               </l>
+               <l>If that from <hi>Brutus</hi> we derive our name,</l>
+               <l>Like him let's bravely flay our Nation's ſhame,</l>
+               <l>Let not our Chaſt Lucretias ſuffer thus,</l>
+               <l>By an adulterous <hi>Griffithins.</hi>
+               </l>
+               <l>O make one <hi>Order</hi> againſt him moſt juſt,</l>
+               <l>Who pimp'd the <hi>ſacred</hi> order for his luſt.</l>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:113310:7"/>
+               <head>The Knave of SPADES.</head>
+               <l>THis Knave by ſtanch and forced gravity</l>
+               <l>In a <hi>Spade</hi> Beard covers all <hi>pravity.</hi>
+               </l>
+               <l>You muſt not thinke his <hi>Cato's</hi> face would cozen,</l>
+               <l>Having the juſtice of the honeſt dozen</l>
+               <l>Good men, and true; yet this upright <hi>treader</hi>
+               </l>
+               <l>Is cloſely link't unto the Devils tedder:</l>
+               <l>So ſanctified a caſt of his white eye,</l>
+               <l>Will uſher nothing but a very <hi>lie.</hi>
+               </l>
+               <l>And while you Imagine you a ſure <hi>card</hi> have,</l>
+               <l>You'le finde this envious <hi>Spade</hi> digging your grave.</l>
+            </div>
+            <div type="part">
+               <head>The Knave of CLUBS.</head>
+               <l>THis is a fooliſh, proud, tumultuous <hi>Chuffe,</hi>
+               </l>
+               <l>Whoſe mouth runs ore with filthy Kitchin ſtuffe,</l>
+               <l>The ſcumme of private raylings; which he vents</l>
+               <l>Now againſt <hi>Kings,</hi> and will 'gainſt <hi>Parliaments,</hi>
+               </l>
+               <l>For this ſame knave likes nothing that hath power,</l>
+               <l>Nor learning, but whats infuſed in the <hi>Houre.</hi>
+               </l>
+               <l>Every thing's his greivance, but beleives</l>
+               <l>Above all other things the poore <hi>lawne ſleeves.</hi>
+               </l>
+               <l>He has a plaguy and malignant ſpight,</l>
+               <l>(For his ſoules <hi>ſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te</hi>) 'gainſt any thing that's white.</l>
+               <l>Pound him to duſt, and his Ingredients ſee,</l>
+               <l>He is compoſ'd of pride, and villany.</l>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:113310:7"/>
+               <head>The TENS.</head>
+               <head type="sub">Decem Praecepta.</head>
+               <l>
+                  <hi>THeſe</hi> if they were kept have power enough,</l>
+               <l>To purge the world of all ſuch <hi>knaviſh</hi> ſtuffe.</l>
+               <l>In dreadfull thunderings upon <hi>Sinas</hi> hill</l>
+               <l>By divine pencill wrote, the <hi>Almighties</hi> will</l>
+               <l>And high <hi>mandamus</hi> were theſe <hi>ten:</hi> The <hi>Jew</hi>
+               </l>
+               <l>Had the firſt priviledge: He heard, and knew</l>
+               <l>The <hi>Legiſlative</hi> voyce: whoſe <hi>Majeſtie</hi>
+               </l>
+               <l>So dreadfull was, it did the <hi>Jewes</hi> to die.</l>
+               <l>So they deſired a <hi>Speaker,</hi> whoſe meeke ſoule,</l>
+               <l>In place of <hi>God</hi> might ſafely them controle,</l>
+               <l>Yet he was mov'd from patience at the men,</l>
+               <l>And firſt of all broke all thoſe bleſſed <hi>ten.</hi>
+               </l>
+               <lg n="1">
+                  <head>(1)</head>
+                  <l>THe firſt provides that I no <hi>Atheiſt</hi> be,</l>
+                  <l>Againſt <hi>plurality,</hi> and <hi>Anarchie.</hi>
+                  </l>
+                  <l>I am the Lord thy God, and I alone;</l>
+                  <l>Not <hi>Gods,</hi> nor <hi>Lords</hi> then are there, no not <hi>none.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>(2)</head>
+                  <l>THe ſecond ſhewes Inviſibility;</l>
+                  <l>You may not picture what you cannot ſee:</l>
+                  <l>God cometh as a <hi>winde.</hi> Who can be found</l>
+                  <l>Of Cunningſt Painter that could paint a <hi>Sound?</hi>
+                  </l>
+                  <l>But know there is a decent uſe of Images;</l>
+                  <l>When t'any thou doſt <hi>bow;</hi> an <hi>Idoll 'tis.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>(3)</head>
+                  <l>THat doth his <hi>nature</hi> keepe, and this his <hi>name,</hi>
+                  </l>
+                  <l>Neither muſt common be: ô what a ſhame</l>
+                  <l>Is it to us; That that name which the <hi>Jewes</hi>
+                  </l>
+                  <l>Durſt not pronounce, we frequently do uſe,</l>
+                  <l>
+                     <pb n="8" facs="tcp:113310:8"/>
+Without regard unto this precepts <hi>taile,</hi>
+                  </l>
+                  <l>Vengeance is his: the ſweares ſhall not faile.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4)</head>
+                  <l>HOw faire and reaſonable are thy demands!</l>
+                  <l>Lord! of ſeaven dayes thou askeſt <hi>one.</hi> There ſtands</l>
+                  <l>An <hi>Item</hi> to this precept ſhewes the ods;</l>
+                  <l>Six dayes we have our ſelves: The <hi>ſeventh</hi> is Gods.</l>
+                  <l>Twill ſhame us if we yeild not: On this day</l>
+                  <l>What on the other ſix you ſafely may,</l>
+                  <l>You may not do; now works then do wherein</l>
+                  <l>Thy profit, or thy pleaſures are, They're ſinne:</l>
+                  <l>Do not the day to <hi>Superſtition</hi> force:</l>
+                  <l>Deny thy <hi>Brother</hi> helpe, and ſave thy <hi>Horſe.</hi>
+                  </l>
+                  <l>The workes forbad are workes of Pride, and hate:</l>
+                  <l>To reſt from works of <hi>love</hi> is reprobate.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5)</head>
+                  <l>THe greateſt bleſſing that on earth can be</l>
+                  <l>Is firme annexed unto loyalty.</l>
+                  <l>He that would <hi>Neſtor's</hi> Age to's children give,</l>
+                  <l>Teach them to <hi>meane, Father</hi> and <hi>King</hi> long live.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>NO man would hazard ſure the Curſe of <hi>Cain;</hi>
+                  </l>
+                  <l>Doe not thou kill, nor wiſh the <hi>Power</hi> of ſlaying.</l>
+                  <l>Whoſe life thou would'ſt preſerve, through hate for ſhame</l>
+                  <l>In Reputation murder not, and name.</l>
+                  <l>Yet thinke not hence, there is no power to <hi>ſtay;</hi>
+                  </l>
+                  <l>In ſpight of this, the ſword of <hi>Juſtice</hi> may.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>
+                     <hi>STones</hi> cry the Jewes for prov'd <hi>Adultery.</hi>
+                  </l>
+                  <l>That is not all, thou mayſt not in thine <hi>eye,</hi>
+                  </l>
+                  <l>Nor in thy <hi>heart</hi> (that private cloſet) doe,</l>
+                  <l>What may pollute thy ſelfe, and neighbour too.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="9" facs="tcp:113310:8"/>
+                  <head>(8.)</head>
+                  <l>THou ſhalt not ſteale from <hi>Man,</hi> nor <hi>God.</hi> The Edge</l>
+                  <l>Of this ſame precept will cut <hi>Sacriledge.</hi>
+                  </l>
+               </lg>
+               <lg n="9">
+                  <head>(9.)</head>
+                  <l>IN publicke Judgement, nor 'mongſt private freinds,</l>
+                  <l>Doe not by Injury ſerve thine owne ends:</l>
+                  <l>The bread that's got by anothers loſſe, though ſweet,</l>
+                  <l>O it is foule, and marke it, It is greet.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10.)</head>
+                  <l>HEre's little difference 'twixt my <hi>neighbour</hi> and</l>
+                  <l>My <hi>ſelfe,</hi> both for the ſame priviledge ſtand.</l>
+                  <l>No longer let's be two: My <hi>Counterpart,</hi>
+                  </l>
+                  <l>The very Copy of my Soule and Heart.</l>
+                  <l>Thy Beaſt, thy ſervants, fortunes, and thy wife,</l>
+                  <l>Are all as deare to me as my owne life.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The NINES.</head>
+               <head type="sub">Nine Heroes.</head>
+               <lg>
+                  <l>THis number's not ſo <hi>ſacred,</hi> as the laſt,</l>
+                  <l>But yet 'tis <hi>famous,</hi> for the Ages paſt</l>
+                  <l>Laboured in this ſame number (as a <hi>vie</hi>)</l>
+                  <l>To manifeſt all humane <hi>gaſlantry.</hi>
+                  </l>
+                  <l>We rake the <hi>Chriſtian, Heathen, Jewiſh</hi> State,</l>
+                  <l>And by extraction make it <hi>ſublimate:</hi>
+                  </l>
+                  <l>In hiſtories <hi>Alembecke</hi> there were nine,</l>
+                  <l>Whoſe ſpirits (as <hi>Elixar</hi>) did out ſhine</l>
+                  <l>The reſt of men: Theſe were their dayes high noone;</l>
+                  <l>Amongſt the leſſer ſtarres the exalted Moone.</l>
+                  <l>Wee'l mount 'em in their ſeverall <hi>Orbs,</hi> and ſee</l>
+                  <l>How different their's, from theſe dayes <hi>Chivalry.</hi>
+                  </l>
+                  <l>God's <hi>Cavalier Joſhua</hi> leads the valiant <hi>va<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>The Conqueror of fruitfull <hi>Canaan.</hi>
+                  </l>
+                  <l>
+                     <pb n="10" facs="tcp:113310:9"/>
+The Sunne and Moone were in his <hi>muſter roles,</hi>
+                  </l>
+                  <l>And liſted <hi>Starres recruited</hi> his ſlaine ſoules.</l>
+                  <l>Rivers retreated, <hi>Jordan</hi> was drove backe,</l>
+                  <l>The blowing of 7 hornes do <hi>Jericho</hi> ſacke,</l>
+                  <l>Thirty one Kings all fell by him. No place</l>
+                  <l>Was ſtrong, nor men, no not the <hi>Anakims</hi> Race.</l>
+                  <l>Yet one baſe lurking <hi>Achans</hi> curſed ſinne,</l>
+                  <l>
+                     <hi>Routed</hi> all <hi>Iſrael:</hi> Have not we beene</l>
+                  <l>Strangely diſpirited, and beat ſometimes?</l>
+                  <l>There is a cauſe, brave <hi>Cavaliers;</hi> Our crimes.</l>
+               </lg>
+               <lg>
+                  <head>DAVID.</head>
+                  <l>WHat's fein'd S<hi rend="sup">t</hi> 
+                     <hi>George</hi> and <hi>Bevis</hi> to have done,</l>
+                  <l>Great <hi>David</hi> did indeed; he Ladies wonne</l>
+                  <l>By ſling and ſword: when vaſt <hi>Goliah</hi> lay</l>
+                  <l>After the Beare and Lyon the <hi>worſe</hi> prey.</l>
+                  <l>What <hi>worthies</hi> were his <hi>Captaines?</hi> and if <hi>they</hi>
+                  </l>
+                  <l>Such mighties were: What was their <hi>King</hi> I pray!</l>
+                  <l>That gallant man after Gods heart a King,</l>
+                  <l>(The peoples ſinne provoking) did a thing</l>
+                  <l>Was <hi>folly</hi> to the Lord. That ſinne this day</l>
+                  <l>The People Acts in a <hi>Militia.</hi>
+                  </l>
+                  <l>Be favourable O Lord, and grant that we,</l>
+                  <l>Like him, may feele but one Curſe, not all <hi>three.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>JUDAS MACH.</head>
+                  <l>Puiſſant <hi>Judas</hi> ſtrong in faith, not men,</l>
+                  <l>Beat proud <hi>Antiochus.</hi> His zeale even then</l>
+                  <l>Unto <hi>Jeruſalem</hi> did brighteſt flame,</l>
+                  <l>When that <hi>Jeruſalem</hi> was but a name.</l>
+                  <l>When heathen Ignorance threw downe her <hi>Courts,</hi>
+                  </l>
+                  <l>And of their <hi>holy veſtures</hi> made their ſports</l>
+                  <l>May after Ages (<hi>Charles</hi>) give thee due praiſe</l>
+                  <l>Who fightſt (as he) the <hi>ruin'd Church</hi> to raiſe.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:113310:9"/>
+                  <head>HECTOR.</head>
+                  <l>
+                     <hi>HEctor</hi> did many valiant Acts, but he</l>
+                  <l>Oppreſſed was by Club<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and ſo are we.</l>
+                  <l>Where <hi>Homer's</hi> learned pen hath ſweat, and chaſt</l>
+                  <l>
+                     <hi>Virgil</hi> hath ſung, for me to rime were waſt.</l>
+               </lg>
+               <lg>
+                  <head>ALEXANDER.</head>
+                  <l>HEre's he, for whom the world too little was,</l>
+                  <l>He ſweat in the <hi>ſtreight compaſſe;</hi> know the cauſe,</l>
+                  <l>His large ambitious minde did know no Bound,</l>
+                  <l>As little <hi>roome</hi> ſerves him (as me) i'th'<hi>ground.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>CAESAR.</head>
+                  <l>HEres he that wept at <hi>Alexanders</hi> Tomb,</l>
+                  <l>'Cauſe at his yeares he had not ſo much orecome.</l>
+                  <l>Who did advance the <hi>Ariſtocracy</hi>
+                  </l>
+                  <l>Unto <hi>Imperiall</hi> State, though cruelly,</l>
+                  <l>Witneſſe the dy of chang'd <hi>Pharſalia's</hi> fields,</l>
+                  <l>Whoſe ſtory lofty <hi>Lucan</hi> fully yeilds.</l>
+                  <l>A man more famous for his <hi>Pen</hi> or <hi>Sword</hi>
+                  </l>
+                  <l>'Tis hard to judge nor can I here afford.</l>
+                  <l>Him, when the fawning Senate ſaid, they'd make</l>
+                  <l>
+                     <hi>Happy</hi> and <hi>high,</hi> baſely his <hi>life</hi> they take.</l>
+               </lg>
+               <lg>
+                  <head>Tres Moderni</head>
+                  <l>
+                     <hi>Arthur</hi> the <hi>Prince</hi> renown'd for <hi>Lady</hi>-fights,</l>
+                  <l>And his round Table, and his ſturdy <hi>Knights,</hi>
+                  </l>
+                  <l>Read now, like to <hi>Romances</hi> will be ſound;</l>
+                  <l>And what's his <hi>Table?</hi> now the whole world's <hi>round.</hi>
+                  </l>
+                  <l>I ſhall not write of <hi>Godfrey, Bulloignes</hi> Duke,</l>
+                  <l>Nor yet ſhall <hi>Charlemaine</hi> ſwell up this Booke.</l>
+                  <l>No, ſince my owne good <hi>Charles</hi> is not the <hi>great,</hi>
+                  </l>
+                  <l>Unleſſe it be in <hi>Soule,</hi> in <hi>Cauſe,</hi> more yet,</l>
+                  <l>
+                     <hi>Great</hi> in his <hi>wrongs, great</hi> in his ſufferings too.</l>
+                  <l>I ſhame to write it Countrymen to you.</l>
+                  <l>Shall it be ſaid, and not recanted? <hi>Freinds,</hi>
+                  </l>
+                  <l>Have your great <hi>promiſes</hi> theſe homely ends?</l>
+                  <l>
+                     <pb n="12" facs="tcp:113310:10"/>
+                     <hi>Glorious</hi> and <hi>Rich;</hi> courage, our <hi>Lord</hi> was ſo;</l>
+                  <l>He made the <hi>World,</hi> yet knew not whereto go.</l>
+               </lg>
+               <lg>
+                  <head>The Nine Muſes.</head>
+                  <l>Yet while by theſe this number's made divine,</l>
+                  <l>Let's not forget, the Muſes they were <hi>nine.</hi>
+                  </l>
+                  <l>When thoſe nine worthies ſhall augmented be</l>
+                  <l>By Charles his Nephews, and his <hi>Progeny,</hi>
+                  </l>
+                  <l>And the ſwolne Annals ſtrout with thy brave Deeds.</l>
+                  <l>Which now the world in quaint <hi>Mercurius</hi> reads.</l>
+                  <l>Thoſe nine well warm'd with a peculiar fire,</l>
+                  <l>Shall <hi>Penne</hi> themſelves thy warres; and not <hi>Inſpire.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>EIGHTS.</head>
+               <head type="sub">Octo Perſonae.</head>
+               <lg>
+                  <l>WHen firſt I drew this Card, it griev'd my heart;</l>
+                  <l>For high offence this figure did impart.</l>
+                  <l>It call'd to mind that <hi>Watry</hi> world, when th' Earth</l>
+                  <l>Was drown'd; and of mankind a generall dearth.</l>
+                  <l>That high gigantick, and rebellious race,</l>
+                  <l>That fought againſt their God for higheſt place;</l>
+                  <l>Broke into drops like to a proud ſwolne wave,</l>
+                  <l>And were intombed in a <hi>floating</hi> grave.</l>
+                  <l>High were the men, the women heavenly faire,</l>
+                  <l>(And fruitfull too) for Continence was rare.</l>
+                  <l>Wherefore God puniſht their inconſtant blood</l>
+                  <l>Except eight Perſons with a <hi>conſtant</hi> Flood.</l>
+               </lg>
+               <lg>
+                  <l>WHat <hi>Ovid</hi> in his Metamorphoſis</l>
+                  <l>Doth as a Fable tell; In truth is This:</l>
+                  <l>And many wiſe men thinke that his Mor-phoſis</l>
+                  <l>Was ſtolne out of the <hi>Pentateuch</hi> of <hi>Moſes.</hi>
+                  </l>
+                  <l>And what you read of good <hi>Deucalion,</hi>
+                  </l>
+                  <l>And <hi>grandam Pyrrah,</hi> each one threw their ſtone,</l>
+                  <l>
+                     <pb n="13" facs="tcp:113310:10"/>
+And they forthwith took kindly heat, and life,</l>
+                  <l>Is true in good-man <hi>Noah,</hi> and his wife,</l>
+                  <l>And <hi>Sem</hi> and <hi>Japheth,</hi> and accurſed <hi>Cham,</hi>
+                  </l>
+                  <l>And their three dames, from whence all people came.</l>
+               </lg>
+               <lg>
+                  <l>The Seminary of man was then the Arke,</l>
+                  <l>That too was of all Beaſts the moving Parke,</l>
+                  <l>The <hi>Rabbins</hi> very pretty ſtories have</l>
+                  <l>Of <hi>Noah,</hi> when he built that ſwimming <hi>Cave.</hi>
+                  </l>
+                  <l>How that his Neighbours wondred, and did ſay,</l>
+                  <l>Good Lord, whither went my Cock and Hen to day?</l>
+                  <l>Anothers Ramme and Ewe, his Bull and Cow,</l>
+                  <l>Her Dogge and pretty Bitch were here but now.</l>
+                  <l>And <hi>Lamech</hi> loving Doves: but all were met</l>
+                  <l>And hundred Couples more, as if they had ſet</l>
+                  <l>Some merry meeting at that huge new Houſe</l>
+                  <l>Which <hi>Noah</hi> built, There was the Rendeavouze.</l>
+                  <l>A Brace of Lyons were met lovingly;</l>
+                  <l>And Tygers twaine, and Bears both he and ſhe.</l>
+                  <l>And ſo of Birds their paires in mighty joy,</l>
+                  <l>As if they had all been flocking to a Coy.</l>
+                  <l>Thus while the amuſed world were wondring at</l>
+                  <l>The Beaſts <hi>proceſſion;</hi> Not dreaming that</l>
+                  <l>A deluge would ſucceed, they merry made,</l>
+                  <l>And God ore whelm'd 'em, 'ere they were afraid.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>SEVENS.</head>
+               <head type="sub">Septem Planetae.</head>
+               <lg>
+                  <l>IF we may truſt divining M<hi rend="sup">r</hi> 
+                     <hi>Booker,</hi>
+                  </l>
+                  <l>
+                     <hi>Our</hi> New States Wyzard, <hi>and</hi> old Starre <hi>looker.</hi>
+                  </l>
+                  <l>From the untoward conjunction of theſe Starres</l>
+                  <l>Enſue reſults of Peace, or bloudy Warres.</l>
+                  <l>
+                     <pb n="14" facs="tcp:113310:11"/>
+I have not ſtudied <hi>Aſtronomie</hi> ſo farre,</l>
+                  <l>As to confute this ſage <hi>Albumazur:</hi>
+                  </l>
+                  <l>Yet I remember, when our <hi>Archiflamen</hi>
+                  </l>
+                  <l>Vpon Prognoſticks did the wight examine.</l>
+                  <l>And ask't him, <hi>Bonâ fide</hi> whether He</l>
+                  <l>By art could gueſſe certaine futuritie.</l>
+                  <l>He anſwer'd plainly, no, he could not tell,</l>
+                  <l>But put things in, to make th' Almanack ſell.</l>
+               </lg>
+               <lg>
+                  <l>But that theſe lights have powerfull influence</l>
+                  <l>Over inferiour Corps, is plaine to <hi>ſence.</hi>
+                  </l>
+                  <l>As in all Plants and waters; and mans mind</l>
+                  <l>By unequall <hi>temperature</hi> is much inclin'd.</l>
+                  <l>Yet the wiſe men, (whoſe number was not <hi>eight</hi>)</l>
+                  <l>Controle theſe <hi>ſeven,</hi> and overlooke their Fate.</l>
+                  <l>Who under <hi>Saturnes</hi> ſullen raye are borne,</l>
+                  <l>Live Melancholy, and ſeeme to be forlorne.</l>
+                  <l>Who under <hi>Mars</hi> had their Nativity,</l>
+                  <l>To Bloud and Rage have a proclivity.</l>
+               </lg>
+               <lg>
+                  <l>The generous aſpects of <hi>Sol</hi> and <hi>Jove</hi>
+                  </l>
+                  <l>Vnto Heroick actions People move.</l>
+                  <l>When theſe in an auſpicious poſture meet,</l>
+                  <l>We ſhortly doe the birth of Princes greet.</l>
+                  <l>So doe theſe Rayes appeare i'th royall Plant,</l>
+                  <l>That we may judge, who were predominant.</l>
+                  <l>For in thy early progreſſe like the Sun</l>
+                  <l>About thy Fathers Kingdome thou haſt run.</l>
+                  <l>While he triumphing like Majeſtick <hi>Jove,</hi>
+                  </l>
+                  <l>Shew'd thee the patterne of his ſtate and love.</l>
+               </lg>
+               <lg>
+                  <l>This is the Sparkling Diamond of the Sky,</l>
+                  <l>The Beauty-ſpeck of Heaven, and bravery.</l>
+                  <l>Which for th' illuſtrious figure, and quaint light,</l>
+                  <l>Is Lady <hi>Huiſher</hi> to the Day and Night.</l>
+                  <l>
+                     <pb n="15" facs="tcp:113310:11"/>
+Her kind and pleaſing <hi>Influence</hi> doth raiſe</l>
+                  <l>More then <hi>Platonick</hi> heat; and though her wayes</l>
+                  <l>Are dark and ſecret, and her fire's unſeene,</l>
+                  <l>(For <hi>Mercury</hi> a friend to th' ſtealth hath been.)</l>
+                  <l>Yet Miſtriſſe <hi>Luna</hi> in her nightly <hi>round,</hi>
+                  </l>
+                  <l>Hath heard the cryes of this <hi>Platonick</hi> wound.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>SIXES.</head>
+               <head type="sub">Opus ſex dicrum.</head>
+               <lg>
+                  <l>IF the ſame <hi>Sixe</hi> be truly underſtood,</l>
+                  <l>The Reader will perceivd, That all were good.</l>
+                  <l>For need muſt they be good, whom the beſt beſt</l>
+                  <l>Himſelfe made, and on the 7<hi rend="sup">th</hi> day took <hi>reſt.</hi>
+                  </l>
+                  <l>Gods working dayes were <hi>ſixe, one</hi> reſting day;</l>
+                  <l>So muſt ours be, but not a reſt to play.</l>
+                  <l>For when the great <hi>Creator</hi> finiſh'd had,</l>
+                  <l>And ſaw all <hi>good,</hi> (for nothing could be bad)</l>
+                  <l>Into himſelfe he did reflect, to ſee</l>
+                  <l>The power and goodneſſe of the <hi>Trinitie.</hi>
+                  </l>
+                  <l>Imitate ô man: and though ſixe dayes thou ſpend</l>
+                  <l>Vpon thy ſelfe, in Him let the 7<hi rend="sup">th</hi> end.</l>
+               </lg>
+               <lg>
+                  <head>The firſt daies Worke.</head>
+                  <l>THat there might be a Firſt daies worke, the Light</l>
+                  <l>Was firſt Created, ſeperate from Night.</l>
+                  <l>Night which was nothing but a want of Day,</l>
+                  <l>And gets a being when that's gone away.</l>
+                  <l>Iuſt ſuch is that in which this blinded Land</l>
+                  <l>Doth grope; unwillingneſſe to underſtand,</l>
+                  <l>
+                     <pb n="16" facs="tcp:113310:12"/>
+Naturall privations ſerve to produce,</l>
+                  <l>But Voluntary Darkneſſe's of no uſe.</l>
+               </lg>
+               <lg>
+                  <head>The Second.</head>
+                  <l>The next daies labour was that Canopy,</l>
+                  <l>(The vulgar uſually doe call the skie<g ref="char:punc">▪</g>)</l>
+                  <l>And is that glorious ſubſtance which is ſpread,</l>
+                  <l>Like a blue ſpangled Mantle or'e our head.</l>
+                  <l>The Seat of God mounted ſo exceeding high,</l>
+                  <l>It is not to be reach'd untill we dy.</l>
+                  <l>The Singer ſweet doth it a Curteine call,</l>
+                  <l>Draw it O Lord, and entertaine us all.</l>
+               </lg>
+               <lg>
+                  <head>The Third.</head>
+                  <l>For all that high precedency of Birth,</l>
+                  <l>The loweſt is moſt courted, this baſe Earth.</l>
+                  <l>Which when it firſt was made, did freely give</l>
+                  <l>All that by which with <hi>ſweat</hi> we now do live.</l>
+                  <l>'Twas Meadow all, and no incloſure then;</l>
+                  <l>What God made common, was inclos'd by men.</l>
+                  <l>To make a Land like that, 'Tis my advice,</l>
+                  <l>Downe with incloſures; They're no Paradiſe.</l>
+                  <l>Laying of ground to ground, doe none of theſe,</l>
+                  <l>The gathering of Waters were the Seas.</l>
+               </lg>
+               <lg>
+                  <head>The Fourth.</head>
+                  <l>Heaven in it ſelfe was glorious enough,</l>
+                  <l>Yet as a pallace with rich <hi>houſehold ſtuffe</hi>
+                  </l>
+                  <l>Thou de<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>eſt Lord thy dwelling place with lights</l>
+                  <l>Of <hi>leſſe</hi> and <hi>greater</hi> magnitude. Our ſights</l>
+                  <l>Cannot behold their luſtre; even they</l>
+                  <l>Dazle that rule the Night, who rules the day</l>
+                  <l>
+                     <pb n="17" facs="tcp:113310:12"/>
+Is the great Author of our Heat and Light,</l>
+                  <l>Yet is not hot, nor ſeen of any ſight.</l>
+                  <l>Let us, O Lord, on Earth to thee conſent,</l>
+                  <l>To make thy houſes full of Ornament.</l>
+                  <l>And as to worſhip them's Idolatry,</l>
+                  <l>So in thy adorn'd Churches let it be.</l>
+               </lg>
+               <lg>
+                  <head>The Fifth.</head>
+                  <l>The Watry Regions had no people yet,</l>
+                  <l>But <hi>Wave</hi> with <hi>Wave</hi> did play, and <hi>Nimph, Nimph</hi> met<g ref="char:punc">▪</g>
+                  </l>
+                  <l>When great <hi>Leviathan,</hi> (no Tyrant than,)</l>
+                  <l>Was made <hi>Grand-Signior</hi> of the Ocean.</l>
+                  <l>And Scaly Officers in ſhoales did preſſe</l>
+                  <l>Vnto his, then not dreaded, <hi>Dreadfullneſſe.</hi>
+                  </l>
+                  <l>Vnder whoſe vaſt demenſions, ſafe did lye</l>
+                  <l>As in a Trench, the Finny Miniſtry.</l>
+                  <l>Like <hi>Lord,</hi> like <hi>Servants,</hi> who did execute</l>
+                  <l>By ſignes his will; for <hi>Both</hi> as Fiſh were mute.</l>
+                  <l>Farre different were the vaſt Aires feather'd Peers,</l>
+                  <l>Where warbling <hi>Birds</hi> ſing to the <hi>playing ſpheres.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>The Sixth.</head>
+                  <l>This was the great <hi>Compleating</hi> day; God's laſt</l>
+                  <l>And beſt of workes, not hundled up in haſt.</l>
+                  <l>Wherein the ſpecies ſenſitive were made,</l>
+                  <l>Thoſe wondrous beaſts, of which we'r now afraid;</l>
+                  <l>Whoſe mutuall kindeneſſe to each other prove</l>
+                  <l>Them all Created by the God of Love.</l>
+                  <l>So ſweet an Innocence fil'd every thing,</l>
+                  <l>
+                     <hi>Serpents</hi> no poyſon had, and <hi>Bees</hi> no ſting.</l>
+                  <l>The <hi>Lamb</hi> and <hi>Wolfe</hi> together friendly lay,</l>
+                  <l>No <hi>Sheep-heards</hi> then, nor <hi>Doggs</hi> to part a fray.</l>
+                  <l>
+                     <hi>Wolves</hi> in <hi>Sheeps-clothing</hi> were, and <hi>Sheep</hi> indeed,</l>
+                  <l>As quiet (as in the <hi>Picture</hi>) they did feed.</l>
+                  <l>
+                     <pb n="18" facs="tcp:113310:13"/>
+They were ſo far from injury, that they</l>
+                  <l>Expected dayly whom they ſhould obey.</l>
+                  <l>Then ſate the <hi>Divine Iunto,</hi> the great <hi>Three</hi>
+                  </l>
+                  <l>In conſultation, who that ſhould be,</l>
+                  <l>To whom the Soveraignty of <hi>Sea</hi> and <hi>Land</hi>
+                  </l>
+                  <l>Should be committed, Such a vaſt Command</l>
+                  <l>Was fit for none, but who could repreſent</l>
+                  <l>
+                     <hi>Himſelfe,</hi> he therefore his owne <hi>Image</hi> lent,</l>
+                  <l>And ſtampt an <hi>Impreſſe</hi> of <hi>Divinity<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>Into a peice of <hi>Clay,</hi> (ſuch as you ſee,)</l>
+                  <l>And it upſtarts a glorious Creature, wiſe,</l>
+                  <l>And Innocent, and meek in his owne eyes,</l>
+                  <l>The joy of <hi>Angels,</hi> and the <hi>Divels</hi> hate,</l>
+                  <l>The Lord ot'h Creatures, high and fortunate.</l>
+                  <l>Who all out of innate <hi>Obedience</hi> came</l>
+                  <l>And knew from him their <hi>Eſſence</hi> in their <hi>name,</hi>
+                  </l>
+                  <l>This ſolitary Monarch could not ſee</l>
+                  <l>Amongſt his Servants fit Society:</l>
+                  <l>But from himſelfe (as from the <hi>Nobleſt</hi> Earth<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And choice Materialls) <hi>Woman</hi> had her Birth.</l>
+                  <l>So all were wonder-ſtruck, the Beaſts to ſee</l>
+                  <l>The <hi>Man,</hi> He <hi>Eve,</hi> and they the <hi>Trinity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>FIVES.</head>
+               <head type="sub">Quinque Senſus.</head>
+               <lg>
+                  <head>Seeing.</head>
+                  <l>THe <hi>Diamond Senſe,</hi> the Bodies faithfull guide,</l>
+                  <l>Is meerly unto <hi>Pſyches</hi> ſelfe allied.<note place="margin">Five Senſes<g ref="char:punc">▪</g>
+                     </note>
+                  </l>
+                  <l>Soule of the <hi>Senſes</hi> this<g ref="char:punc">▪</g> whoſe chearfullneſſe.</l>
+                  <l>Even as in death (for blindeneſſe is no leſſe)</l>
+                  <l>
+                     <pb n="19" facs="tcp:113310:13"/>
+Without the ſight is dampt. He that's borne blind</l>
+                  <l>Walkes in a <hi>ſleep,</hi> and only lives in <hi>mind.</hi>
+                  </l>
+                  <l>That ſuch a one may live, he firſt muſt <hi>dye,</hi>
+                  </l>
+                  <l>The <hi>Reſurrection's</hi> his <hi>Nativity.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Hearing.</head>
+                  <l>The Soules <hi>Intelligence,</hi> and nimble <hi>Scout,</hi>
+                  </l>
+                  <l>Iuſt like the <hi>Scout</hi> doth truths and tales put out.</l>
+                  <l>For at theſe ſubtle <hi>Port-holes</hi> doth not ſtand</l>
+                  <l>A <hi>Sentinell,</hi> who may the word demand</l>
+                  <l>Before it paſſe, but every word doth flye</l>
+                  <l>Into the <hi>Preſence, chamber</hi> inſtantly.</l>
+                  <l>The <hi>Convoy</hi> of our <hi>Faith; Sciences</hi> Clewes;</l>
+                  <l>The <hi>Staple</hi> and the <hi>Magazine</hi> of Newes.</l>
+               </lg>
+               <lg>
+                  <head>Touching.</head>
+                  <l>
+                     <hi>Tactus</hi> has got ſo great an Excellence,</l>
+                  <l>That to want it is ſaid to have no <hi>Senſe.</hi>
+                  </l>
+                  <l>I never heard of any thing but one</l>
+                  <l>That was inſenſible; and ſhee Alone.</l>
+                  <l>But in a juſt recruite ought to abound</l>
+                  <l>With that fine <hi>ſixth ſenſe</hi> which great <hi>Scaliger</hi> found.</l>
+                  <l>The Bodies <hi>Life-Guard</hi> this, no little harme,</l>
+                  <l>But preſently the <hi>Touch</hi> doth give <hi>Alarme<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Taſting.</head>
+                  <l>Our Victualls <hi>garniſh,</hi> Entertainments <hi>flouriſh,</hi>
+                  </l>
+                  <l>Without our Palates, we like <hi>Embryons</hi> nouriſh:</l>
+                  <l>As much delight the Infant <hi>Navell-fed,</hi>
+                  </l>
+                  <l>Takes in his meat, as when'ts unreliſhed.</l>
+                  <l>This is the <hi>Sawſe</hi> of ſawſe: this Salt doth ſeaſon</l>
+                  <l>Our Appetites <hi>Second. Manciple</hi> to Reaſon.</l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="tcp:113310:14"/>
+                  <head>Smelling.</head>
+                  <l>Could you a Face in any wiſe ſuppoſe</l>
+                  <l>Handſom, without this goodly ridge the <hi>Noſe?</hi>
+                  </l>
+                  <l>Iuſt ſuch a nonſenſe <hi>Noſe</hi> (as that's a Face,)</l>
+                  <l>Is that which wants this rare Olfactive grace.</l>
+                  <l>The <hi>Loadſtone</hi> of the brain, the ſenſe <hi>magnetick,</hi>
+                  </l>
+                  <l>
+                     <hi>Natures</hi> High-chamberlaine <hi>and</hi> Groome prophetick.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>FOURES.</head>
+               <lg>
+                  <head type="sub">Quatuor Elementa.</head>
+                  <lg>
+                     <head>Fire.</head>
+                     <l>THeſe are the ſubtle <hi>principles</hi> 'oth world,<note place="margin">Foure Ele<g ref="char:EOLhyphen"/>ments.</note>
+                     </l>
+                     <l>Which where they're temper'd well, or raſhly hurld,</l>
+                     <l>Doe make their Compounds plauſible, or loath'd:</l>
+                     <l>All things in theſe, though <hi>undiſcern'd,</hi> are cloth'd.</l>
+                     <l>In extaſie at this the good <hi>King</hi> ſaid,</l>
+                     <l>I'me <hi>fearfully</hi> and <hi>wonderfully</hi> made.</l>
+                     <l>O the art and wiſedome of the Deity!</l>
+                     <l>Which from confuſed <hi>Chaos,</hi> where did lye</l>
+                     <l>Theſe <hi>blended Elements</hi> in ſtrange diſguiſe,</l>
+                     <l>Gave them their place, and due proprieties;</l>
+                     <l>And did advance the active <hi>Fire</hi> ſo high,</l>
+                     <l>It's next unto the throne of <hi>Majeſtie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>Aire.</head>
+                     <l>This into ſeverall Regions is decided;</l>
+                     <l>For <hi>Breath,</hi> for ſwaggering <hi>Winds</hi> and <hi>Snowes</hi> provided.</l>
+                     <l>The <hi>Magazine</hi> of Heavens here: <hi>Artillerie</hi>
+                     </l>
+                     <l>Which oft in dreadfull thundrings rend the <hi>skie.</hi>
+                     </l>
+                     <l>
+                        <pb n="21" facs="tcp:113310:14"/>
+And gives proud <hi>Tyrants</hi> check<g ref="char:punc">▪</g> which bravely awe</l>
+                     <l>All under <hi>powers,</hi> and <hi>guard</hi> the <hi>Supreme</hi> Lawe.</l>
+                     <l>This like a ſilken girdle doth ſurround</l>
+                     <l>The <hi>moving</hi> waters, and the <hi>fixed</hi> ground.</l>
+                     <l>This is a <hi>Proteus,</hi> which in quaint attire</l>
+                     <l>Condens'd, <hi>is</hi> Water, Rarified, <hi>is</hi> Fire.</l>
+                  </lg>
+                  <lg>
+                     <head>Earth and Water.</head>
+                     <l>Theſe two are Inmates to each other; friends</l>
+                     <l>Checqred together in kind mutuall blends.</l>
+                     <l>So neceſſary Neighbours to us, that</l>
+                     <l>All pleaſures are, as they are, ſcituate.</l>
+                     <l>When our fond thoughts are wearied in the ſports</l>
+                     <l>O'th <hi>Earth;</hi> we dally in the <hi>watry</hi> Courts:</l>
+                     <l>This glazen Element, (unleſſe the wind</l>
+                     <l>Dimple her ſurface) is moſt ſmooth and kind.</l>
+                     <l>Her numerous <hi>Subjects</hi> farre the <hi>Earth's</hi> exceed,</l>
+                     <l>And are the great <hi>ſupply</hi> of humane need.</l>
+                     <l>What wealth are in their <hi>Bowells</hi> hid? Her <hi>Jewells</hi>
+                     </l>
+                     <l>And t'others <hi>Gold,</hi> are all <hi>Contentions</hi> fuell.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <head>Quatuor Anni Tempora.</head>
+                  <l>IT were unſeaſonable to paſſe theſe <hi>foure,</hi>
+                     <note place="margin">Four Seaſons of the yeare.</note>
+                  </l>
+                  <l>In which our <hi>life</hi> is <hi>paſs'd.</hi> Nay count them o're.</l>
+                  <l>You'l find in every <hi>man</hi> even every <hi>ſeaſon,</hi>
+                  </l>
+                  <l>So man is but a <hi>yeare</hi> indued with <hi>reaſon.</hi>
+                  </l>
+                  <l>His <hi>Child-hood</hi> is the <hi>Spring:</hi> when flowry <hi>Cheeks</hi>
+                  </l>
+                  <l>And ſmiling looks, a <hi>Springall</hi> him beſpeaks.</l>
+                  <l>The <hi>Summer</hi> is his youth: which Harveſt yeelds,</l>
+                  <l>Himſelfe of Corne a conſtant <hi>ſtanding Field's.</hi>
+                  </l>
+                  <l>
+                     <pb n="22" facs="tcp:113310:15"/>
+He hath his <hi>fall</hi> too, and <hi>Autumnall</hi> change,</l>
+                  <l>And Snow and Winter on his white <hi>haires</hi> range.</l>
+                  <l>They differ thus: the <hi>Seaſon</hi> never failes,</l>
+                  <l>But oft in Spring and youth <hi>death</hi> man aſſailes.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>THREES.</head>
+               <head type="sub">Virtutes Theologicae.</head>
+               <lg>
+                  <head>Faith.</head>
+                  <l>
+                     <hi>HAnd</hi> of the Soule and <hi>Eye</hi>: what ſilly we</l>
+                  <l>Nor ſee,<note place="margin">Three Theo<g ref="char:EOLhyphen"/>logicall Ver<g ref="char:EOLhyphen"/>tues.</note> nor comprehend for Majeſtie.</l>
+                  <l>By <hi>Faiths</hi> attain'd<g ref="char:punc">▪</g> and what the <hi>Heathen</hi> thought</l>
+                  <l>So ſtrange, and <hi>Papiſts</hi> dangerouſly have taught</l>
+                  <l>Without a Miracle, or Ethnick jeere,</l>
+                  <l>By <hi>Faith</hi> we <hi>feed</hi> on <hi>God,</hi> Hee's <hi>Chriſtmaſſe</hi> cheere.</l>
+                  <l>And as of a good <hi>Conſcience he profeſt,</hi>
+                  </l>
+                  <l>So we oth' Sacraments, it is a <hi>Feaſt.</hi>
+                  </l>
+                  <l>A <hi>Feaſt</hi> where <hi>Angels</hi> would kneele downe and eat,</l>
+                  <l>Where Gods the <hi>Entertainer,</hi> and the <hi>meat.</hi>
+                  </l>
+                  <l>Away theſe ſinfull <hi>Senſes,</hi> get you hence,</l>
+                  <l>You let in Vice. <hi>Faith</hi> is the <hi>Chriſtian</hi> ſenſe.</l>
+               </lg>
+               <lg>
+                  <head>Hope.</head>
+                  <l>Wer't not for thee, what commonly we ſpeake</l>
+                  <l>Is very true; Our very Heart would breake.</l>
+                  <l>
+                     <hi>Mother</hi> of <hi>Patience,</hi> ſweetner of all loſſe,</l>
+                  <l>Supply of want, miſeries <hi>Anti-croſſe.</hi>
+                  </l>
+                  <l>The Anchor of this <hi>Floating</hi> Iſland, where</l>
+                  <l>Our <hi>Hope</hi> doth live, but ſtrait begirt with <hi>Feare.</hi>
+                  </l>
+                  <l>
+                     <pb n="23" facs="tcp:113310:15"/>
+The Penitents Cordiall, <hi>Bezar</hi> ſtone of griefe,</l>
+                  <l>
+                     <hi>The Parted's</hi> internuntius, Priſoners reliefe,</l>
+                  <l>The only Key of <hi>Heaven,</hi> which doth ope,</l>
+                  <l>(When <hi>Faith</hi> and <hi>Charity</hi> doe ceaſe) to <hi>Hope.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Charity.</head>
+                  <l>The glew of Earth and Heaven, whoſe new ſtate</l>
+                  <l>Is to be now Conjoyn'd, not ſeparate.</l>
+                  <l>So great God's love unto his Creature is,</l>
+                  <l>That both are joyn'd in one <hi>hypoſtaſis.</hi>
+                  </l>
+                  <l>
+                     <hi>Love</hi> Borne, when name of <hi>Duell</hi> was not known,</l>
+                  <l>And with <hi>Aſtraea,</hi> and the reſt hence Flowne.</l>
+                  <l>Wrapd up in <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> Mantle, which doth hide</l>
+                  <l>And not proclaim the faults, that are eſpied.</l>
+                  <l>Antipathy of <hi>hate,</hi> keene <hi>malice's</hi> regret,</l>
+                  <l>At very name of foule <hi>Revenge,</hi> ſhee'l ſweat.</l>
+                  <l>The Centry of my Neighbours <hi>Fame,</hi> and <hi>Houſe,</hi>
+                  </l>
+                  <l>Salvation's univerſall <hi>Rendevouz<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>TWO's.</head>
+               <lg>
+                  <head type="sub">Duo Teſtamenta.</head>
+                  <l>THeſe are God's <hi>Magna Charta,</hi>
+                     <note place="margin">Two Teſta<g ref="char:EOLhyphen"/>ments.</note> the ancient Law</l>
+                  <l>Which did the <hi>Jewes,</hi> now doth the <hi>Chriſtian</hi> awe.</l>
+                  <l>Who for <hi>themſelves</hi> are <hi>credited:</hi> the Ground</l>
+                  <l>Of their <hi>owne</hi> Truth, and <hi>Rule</hi> of what is Found.</l>
+                  <l>Not both like plauſible; The <hi>letter Red</hi>
+                  </l>
+                  <l>In that, and threatning <hi>Death;</hi> appropriated</l>
+                  <l>In certaine priviledges unto a Few;</l>
+                  <l>And hid in <hi>types,</hi> ſcarce knowne unto the <hi>Jew.</hi>
+                  </l>
+                  <l>
+                     <pb n="24" facs="tcp:113310:16"/>
+The other's<g ref="char:punc">▪</g> 
+                     <hi>letter</hi> faire, and plaine; That he</l>
+                  <l>That runs may read, and for <hi>all</hi> commers free.</l>
+                  <l>A <hi>Teſtament</hi> of ſuch <hi>extent;</hi> which makes</l>
+                  <l>The <hi>World Executor,</hi> He that will partakes.</l>
+               </lg>
+               <lg>
+                  <head>Duo Sacramenta.</head>
+                  <l>THeſe in their <hi>types</hi> were <hi>bloody,</hi>
+                     <note place="margin">Two Sacra<g ref="char:EOLhyphen"/>ments.</note> and did fright</l>
+                  <l>The <hi>Heathen</hi> world from their ſeverer Rite;</l>
+                  <l>The <hi>Jew</hi> did want his Spectacles in part,</l>
+                  <l>Nor did the <hi>Circumciſion</hi> ſee oth' <hi>Heart.</hi>
+                  </l>
+                  <l>But doted on the outward Formes: and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Became leſſe <hi>Iew,</hi> and was but one in <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>He ſaw the Infant bleed, but underſtood</l>
+                  <l>No iſſue of his ſinne, but only bloud.</l>
+                  <l>And knew not when he us'd his cruell <hi>knife,</hi>
+                  </l>
+                  <l>The wound in's <hi>Fleſh,</hi> was 'gainſt his ſinfull <hi>Life.</hi>
+                  </l>
+                  <l>So when with bitter herbs the <hi>Paſchall Lambe</hi>
+                  </l>
+                  <l>Was eaten by the Sonnes of <hi>Abraham;</hi>
+                  </l>
+                  <l>They look't not throw the Myſtery,</l>
+                  <l>Nor ſaw in <hi>Pharo's, Satans</hi> Tyranny.</l>
+                  <l>And ſo for all their great deliverance,</l>
+                  <l>Are ſtill aſleepe in an <hi>Aegyptian</hi> trance,</l>
+                  <l>And feed on <hi>ſhadowes,</hi> while the <hi>Lambe indeed</hi>
+                  </l>
+                  <l>Was ſlaine by them, but they no whit will <hi>Feed.</hi>
+                  </l>
+                  <l>No more let <hi>Superſtition</hi> them befoole,</l>
+                  <l>Nor thoughts of <hi>Iordan</hi> or <hi>Betheſda<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Poole.</l>
+                  <l>But give them grace (good Lord) they may Confide</l>
+                  <l>Ith' ſtreame of <hi>bloud,</hi> and <hi>water</hi> from thy Side.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
